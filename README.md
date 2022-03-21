@@ -59,7 +59,7 @@ UptimeRobot 从 2021 年 5 月开始只有付费版才能绑定自定义域名�
 
 ## RSS订阅
 
-在 UptimeRobot 的 Dashboard - My Settings - RSS Notification 选项中开启RSS订阅功能。获取到链接后，将Path替换到 rss_path 中即可。当你访问 domain.com/rss 的时候，会自动反代UptimeRobot提供的RSS。
+在 UptimeRobot 的 Dashboard - My Settings - RSS Notification 选项中开启 RSS 订阅功能。获取到链接后，将 Path 替换到 rss_path 中即可。当你访问 domain.com/rss 的时候，会自动反代 UptimeRobot 提供的 RSS
 
 ## 示例
 
