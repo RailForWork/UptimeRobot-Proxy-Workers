@@ -57,6 +57,10 @@ UptimeRobot 从 2021 年 5 月开始只有付费版才能绑定自定义域名�
 
 然后去域名解析那边添加 CNAME 记录解析到 CF Workers 项目提供的域名（Routes 里面默认的域名），这里的域名必须是托管在 CloudFlare 上面的，但是你也可以解析到其它的 IP 地址或 CDN
 
+## RSS订阅
+
+在 UptimeRobot 的 Dashboard - My Settings - RSS Notification 选项中开启RSS订阅功能。获取到链接后，将Path替换到 rss_path 中即可。当你访问 domain.com/rss 的时候，会自动反代UptimeRobot提供的RSS。
+
 ## 示例
 
 我的服务监控： https://status.xhtml.love/
